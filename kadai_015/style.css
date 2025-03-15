@@ -1,0 +1,30 @@
+.blue {
+  text-align: center;
+  color: skyblue
+}
+
+.pink {
+  color: rgb(255, 192,203);
+  text-align: center;
+}
+
+
+.MYPROFILE {
+  font-family: "sans-serif",Josefin Sans;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 2px 4px red;
+  border-bottom:  solid 3px rgb(115, 115, 114);
+  text-align: center;
+}
+
+  .center {
+    text-align: center;
+  }
+
+  #basic p {
+    font-weight: bold;
+  }
